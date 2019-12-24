@@ -55,4 +55,10 @@ public class Addactin {
 			Assert.assertTrue("verify login or not", driver.getCurrentUrl().contains("SearchHotel"));
 	}
  
+	
+	
+	private void empid() {
+	     System.out.println("7852");
+
+	}
 }
