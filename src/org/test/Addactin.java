@@ -54,8 +54,15 @@ public class Addactin {
 			login.click();
 			Assert.assertTrue("verify login or not", driver.getCurrentUrl().contains("SearchHotel"));
 	}
- private void empName() {
-	System.out.println("mk");
 
-}
+ 
+	private void empid() {
+	     System.out.println("7852");
+
+	}
+	private void empName() {
+		System.out.println("mk");
+
+	}
+
 }
